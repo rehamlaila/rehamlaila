@@ -1,4 +1,4 @@
-## Hi there 👋
+Hi my name is Reham Laila, I am a first year Software Engineering student at York University.
 
 <!--
 **rehamlaila/rehamlaila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
