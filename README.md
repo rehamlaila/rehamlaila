@@ -1,4 +1,4 @@
-# Hi, I'm Reham Laila
+# Reham Laila
 
 I'm a first-year Engineering student at York University 
 passionate about software development, hardware integration, 
