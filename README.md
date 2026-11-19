@@ -16,7 +16,7 @@ Smart Room Climate Control System - Arduino and Java-based system for monitoring
 
 Projects in Progress
 
-PulseTriage — Biomedical Monitoring System - A conceptual finger-clip sensor system designed for physiological monitoring using optical and temperature sensors, signal conditioning, and data acquisition.
+PulseTriage - Biomedical Monitoring System - A conceptual finger-clip sensor system designed for physiological monitoring using optical and temperature sensors, signal conditioning, and data acquisition.
 
 Technical Skills
 
