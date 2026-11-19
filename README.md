@@ -6,17 +6,17 @@ I enjoy developing practical solutions to real-world problems and expanding my t
 
 Projects
 
-Wearly — An AI-powered wardrobe and weather assistant that helps newcomers to Canada choose weather-appropriate outfits using their existing clothes and budget. Features AI clothing recognition and personalized recommendations. Winner of Best Open-Source AI Project at ElleHacks × Hacktoberfest Hack Day 2026.
+Wearly - An AI-powered wardrobe and weather assistant that helps newcomers to Canada choose weather-appropriate outfits using their existing clothes and budget. Features AI clothing recognition and personalized recommendations. Winner of Best Open-Source AI Project at ElleHacks × Hacktoberfest Hack Day 2026.
 
-Automated Plant Watering System — MATLAB and Arduino-based system for real-time soil moisture monitoring and automated watering using state machine logic.
+Automated Plant Watering System - MATLAB and Arduino-based system for real-time soil moisture monitoring and automated watering using state machine logic.
 
-Smart Fall Detection Bracelet — Sensor-based wearable designed to detect falls and send automatic emergency alerts.
+Smart Fall Detection Bracelet - Sensor-based wearable designed to detect falls and send automatic emergency alerts.
 
-Smart Room Climate Control System — Arduino and Java-based system for monitoring and controlling indoor climate conditions.
+Smart Room Climate Control System - Arduino and Java-based system for monitoring and controlling indoor climate conditions.
 
 Projects in Progress
 
-PulseTriage — Biomedical Monitoring System — A conceptual finger-clip sensor system designed for physiological monitoring using optical and temperature sensors, signal conditioning, and data acquisition.
+PulseTriage — Biomedical Monitoring System - A conceptual finger-clip sensor system designed for physiological monitoring using optical and temperature sensors, signal conditioning, and data acquisition.
 
 Technical Skills
 
